@@ -1,12 +1,14 @@
-### Hi there 👋
-
 <div id="header"  align="center">
     <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="300"/>
     <div id="badges">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-        <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-        <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+        <a href="https://www.linkedin.com/in/ebenezer-akpas-6a0792159/">
+            <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+        </a>
+        <a he=ref="https://twitter.com/Ebeneze00707851">
+            <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+        </a>
     </div>
+    <h1> Hi there 👋 </h1>
 </div>
 
 

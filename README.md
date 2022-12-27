@@ -14,7 +14,10 @@
 ---
 
     
-### :black_man_technologist: About Me :
+### :man_technologist: About Me :
+I am a full stack blochchain developer from Nigeria
+
+
 
 
 <!--

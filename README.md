@@ -9,11 +9,12 @@
         </a>
     </div>
     <h1> Hi there 👋 </h1>
-    ---
+</div>
+
+---
 
     
     ### :woman_technologist: About Me :
-</div>
 
 
 <!--

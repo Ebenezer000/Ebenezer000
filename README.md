@@ -70,9 +70,4 @@
 
 ---
 
-### Dev Quote
 #### "As you grow you realize the difference between giving respect and showing respect"
-
-<!--
-**Ebenezer000/Ebenezer000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->

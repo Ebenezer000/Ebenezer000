@@ -3,7 +3,7 @@
 
 🧘🏾‍♂️ My name is Ebenezer Akpas
 - I am a full stack blochchain developer from Nigeria 🇳🇬
-- 🛠 I currently work with Symphony.is
+- 🛠 I currently work with CHain Consults and Symphony.is
 - 🎮 In my spare time I build Python Bots and Rust softwares
 - 🌱 I’m currently learning Golang 
 
